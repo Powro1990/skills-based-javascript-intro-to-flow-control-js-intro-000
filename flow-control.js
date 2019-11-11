@@ -35,6 +35,16 @@ function switchAge(age) {
     case 14:
       return anwser;
     case 15:
+      return anwser;
+    case 16:
+      return anwser;
+    case 17:
       return anwser;  
+    case 18:
+      return anwser;
+    case 19:
+      return anwser;
+    default:
+     return 
   }
 }
