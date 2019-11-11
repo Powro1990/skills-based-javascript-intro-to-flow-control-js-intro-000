@@ -18,7 +18,7 @@ if (age > 12  && age < 20) {
     return "You are a teenager!";
   } else if (age < 13) {
     return "You are a kid";
-  } else (age > 19) {
+  } else if (age > 19) {
     return "You are a grownup";
   }
 }
